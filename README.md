@@ -54,7 +54,7 @@ I'm a passionate developer who loves building elegant solutions to complex probl
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=HansakaRatnayake&theme=dark&hide_border=true&border_radius=5" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app?user=HansakaRatnayake&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 🏆 GitHub Trophies
