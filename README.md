@@ -1,4 +1,4 @@
-# Hi there, I'm Hansaka 👋
+# Hi there, I'm Hansaka Rathnayake 👋
 
 <div align="center">
   
@@ -10,12 +10,11 @@
 
 I'm a passionate developer who loves building elegant solutions to complex problems. With a focus on clean code and user experience, I'm constantly exploring new technologies and contributing to the open-source community.
 
-- 🔭 I'm currently working on **[Your Current Project]**
-- 🌱 I'm currently learning **[Technologies You're Learning]**
+- 🔭 I'm currently working on **Smart City 360**
+- 🌱 I'm currently learning **Cloud Technologies**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Web Development, APIs, Cloud Architecture**
-- 📫 How to reach me: **your.email@example.com**
-- ⚡ Fun fact: **[Something interesting about you]**
+- 📫 How to reach me: *iamhansakaratnayake@gmail.com**
 
 ## 🛠️ Tech Stack
 
@@ -70,23 +69,14 @@ I'm a passionate developer who loves building elegant solutions to complex probl
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=C9D1D9" alt="Contribution Graph"/>
 </div>
 
-## 🎯 Featured Projects
-
-<div align="center">
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=your-repo-name&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9)](https://github.com/yourusername/your-repo-name)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=another-repo-name&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9)](https://github.com/yourusername/another-repo-name)
-
-</div>
 
 ## 🤝 Connect with Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/hansaka-rathnayake-dev))
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://yourwebsite.com](https://hansaka.site/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamhansakaratnayake@gmail.com)
 
 </div>
 
