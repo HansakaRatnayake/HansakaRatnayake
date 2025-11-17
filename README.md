@@ -53,7 +53,7 @@ I'm a passionate developer who loves building elegant solutions to complex probl
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HansakaRatnayake&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" alt="Top Languages" height="170"/>
 </div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HansakaRatnayake&theme=dark&border_radius=5)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=HansakaRatnayake&theme=dark&border_radius=5" alt="GitHub Streak" /></a>
 
 ## 🏆 GitHub Trophies
 
