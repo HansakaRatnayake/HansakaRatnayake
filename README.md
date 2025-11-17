@@ -29,7 +29,7 @@ I'm a passionate developer who loves building elegant solutions to complex probl
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-35495E?style=for-the-badge&logo=angulardot&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-35495E?style=for-the-badge&logo=angular&logoColor=4FC08D)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend
